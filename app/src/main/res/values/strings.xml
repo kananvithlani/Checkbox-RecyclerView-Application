@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Checkbox RecyclerView Application</string>
+
+    <string name="count">Count selected items</string>
+
+    <integer-array name="price">
+        <item>6</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>5</item>
+        <item>3</item>
+        <item>2</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>8</item>
+        <item>8</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>67</item>
+        <item>7</item>
+        <item>8</item>
+        <item>88</item>
+        <item>8</item>
+        <item>8</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>37</item>
+        <item>9</item>
+        <item>8</item>
+        <item>3</item>
+        <item>5</item>
+        <item>6</item>
+        <item>12</item>
+        <item>31</item>
+    </integer-array>
+</resources>
